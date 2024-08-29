@@ -1,0 +1,24 @@
+/* 
+    Created on : Oct 6, 2022, 10:04:12 AM
+    Author     : 615940
+*/
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    background-color: white;
+}
+html {
+    background-color: #ccffff;
+}
+nav {
+    display: block;
+    border: 1px black solid;
+}
+
+nav ul, nav ol {
+    list-style: none;
+    list-style-image: none;
+    margin: 0;
+    padding: 0;
+}

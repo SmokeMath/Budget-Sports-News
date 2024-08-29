@@ -1,0 +1,32 @@
+/* 
+    Created on : Oct 4, 2022, 9:52:01 AM
+    Author     : 615940
+*/
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+}
+div.center {
+    float: none;
+    border: 1px black solid;
+}
+div.left {
+    float: left;
+    width: 30%;
+    padding-left: 40px;
+}
+div.right {
+    float: right;
+    width: 33.33%;
+}
+html {
+    background-color: #ccffff;
+}
+table {
+    text-align: center;
+    align-content: center;
+}
+p {
+    padding-right: 40px;
+}
